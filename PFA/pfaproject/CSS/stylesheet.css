@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body{
+font-family: 'Architects Daughter', cursive;
+background-color:#D0D6B5;}
+h2 ,h1,h3,h4,a {
+color:#17052E;}
+button{
+	padding:5px;
+	height:30px;
+	background-color: #757780;
+	color:#17052E;
+	border:inset 2px grey;
+	border-radius:5px;
+}
+.header,footer{
+background-color:#757780;
+color:#17052E;}
+a:link{
+text-decoration:none;}
+.reseauSociaux {
+    text-decoration: none;
+}
+.RS img{
+    width: 20px;
+}
+.RS{
+    position: absolute;
+    right: 10px;
+}
+.cordonnee{
+	position: absolute;
+    right: -50px;
+}
